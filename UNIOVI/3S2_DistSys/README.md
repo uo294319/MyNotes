@@ -13,7 +13,7 @@
 - [T2.3 - Remote Procedure Calls (RPC)](T23.md)
 - [T2.4 - Message Oriented Middleware (MOM)](T24.md)
 ## T3 - Distributed systems standards and architectures
-- T3.1 - Architectures
+- [T3.1 - Architectures](T31.md)
 - T3.2 - P2P Protocol
 ## T4 - Infrastructure services
 - T4.1 - Synchronization
