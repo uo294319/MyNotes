@@ -14,7 +14,7 @@
 - [T2.4 - Message Oriented Middleware (MOM)](T24.md)
 ## T3 - Distributed systems standards and architectures
 - [T3.1 - Architectures](T31.md)
-- T3.2 - P2P Protocol
+- [T3.2 - P2P Protocol](T32.md)
 ## T4 - Infrastructure services
 - T4.1 - Synchronization
 - T4.2 - Coordination and consensus
