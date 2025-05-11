@@ -16,7 +16,8 @@
 - [T3.1 - Architectures](T31.md)
 - [T3.2 - P2P Protocol](T32.md)
 ## T4 - Infrastructure services
-- T4.1 - Synchronization
+Built on the mechanisms of communication between processes, can be considered a master layer between middleware and the application.
+- [T4.1 - Synchronisation](T41.md)
 - T4.2 - Coordination and consensus
 - T4.3 - Security
 - T4.4 - The cloud
