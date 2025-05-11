@@ -13,8 +13,8 @@
 - [T2.3 - Remote Procedure Calls (RPC)](UNIOVI/3S2_DistSys/data/T23.md)
 - [T2.4 - Message Oriented Middleware (MOM)](UNIOVI/3S2_DistSys/data/T24.md)
 ## T3 - Distributed systems standards and architectures
-- [T3.1 - Architectures](T31.md)
-- [T3.2 - P2P Protocol](T32.md)
+- [T3.1 - Architectures](UNIOVI/3S2_DistSys/data/T31.md)
+- [T3.2 - P2P Protocol](UNIOVI/3S2_DistSys/data/T32.md)
 ## T4 - Infrastructure services
 Built on the mechanisms of communication between processes, can be considered a master layer between middleware and the application.
 - [T4.1 - Synchronisation](T41.md)
