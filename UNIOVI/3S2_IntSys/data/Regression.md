@@ -24,12 +24,14 @@ For simplicity we consider $x_0 = 1$ (intercept term):
 $$h_\theta(x) = \sum_{i=0}^n \theta_i x_i$$
 
 Or in a vectorial expression: $h_\theta(x) = \theta^Tx$
-	
 ### 3. Cost Function
-We define a cost function $J(\theta)$.
+We define a cost function $J(\theta)$ 
+tells us how apart is $h_\theta(x)$ from $y$.
 There are many but we use the least-squares.
 
 $$J(\theta) = \frac{1}{2}\sum_{i=1}^n(h_\theta(x_i) - y_i)^2$$
+
+The objective is to minimise $J(\theta)$.
 ## Gradient Descent
 
 Algorithm to obtain the weights $\theta$ that minimices the cost function $J(\theta)$.
