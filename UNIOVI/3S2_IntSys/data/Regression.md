@@ -32,8 +32,10 @@ $$J(\theta) = \frac{1}{2}\sum_{i=1}^n(h_\theta(x_i) - y_i)^2$$
 Algorithm to obtain the weights $\theta$ that minimices the cost function $J(\theta)$.
 ### Algorithm
 $$
-\theta := \theta_0 \\
-\text{repeat}
-\quad\theta := \theta - \gamma\times \frac{
+\begin{equation}\begin{split}
+&\theta := \theta_0 \\
+&\text{repeat} \\
+&\quad\theta := \theta - \gamma\times \frac{
 \partial J}{\partial \theta}
+\end{split}\end{equation}
 $$
