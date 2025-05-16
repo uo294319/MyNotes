@@ -34,5 +34,6 @@ Algorithm to obtain the weights $\theta$ that minimices the cost function $J(\th
 $$
 \theta := \theta_0 \\
 \text{repeat}
-\quad\theta := \theta - \
+\quad\theta := \theta - \gamma\times \frac{
+\partial J}{\partial \theta}
 $$
