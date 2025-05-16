@@ -11,7 +11,7 @@
 ### 1. Objective
 Given a set of features $x_1$, $x_2$, ... $x_d$ we try to predict the target $y$.
 
-$$h:x\to y$$
+$$h:x\mapsto y$$
 
 ### 2. Linear Regression Function
 We define the linear function $h_\theta(x)$
@@ -25,13 +25,13 @@ $$h_\theta(x) = \sum_{i=0}^n \theta_i x_i$$
 
 Or in a vectorial expression: $h_\theta(x) = \theta^Tx$
 ### 3. Cost Function
-We define a cost function $J(\theta)$ 
-tells us how apart is $h_\theta(x)$ from $y$.
+- We define a cost function $J(\theta)$.
+- $J(\theta)$ tells us how apart is $h_\theta(x)$ (prediction) from $y$ (real value) based on the weights.
 There are many but we use the least-squares.
 
 $$J(\theta) = \frac{1}{2}\sum_{i=1}^n(h_\theta(x_i) - y_i)^2$$
 
-The objective is to minimise $J(\theta)$.
+- The objective is to minimise $J(\theta)$. $\theta \leftarrow \arg\min_\theta J(\theta)$
 ## Gradient Descent
 
 Algorithm to obtain the weights $\theta$ that minimices the cost function $J(\theta)$.
