@@ -15,14 +15,17 @@ $$h:x\to y$$
 
 2. So we define the linear function $h_\theta(x)$
 
-$$h_\theta(x) = \theta_0 + \theta_1 x_1 + ... + \theta_d x_d$$
+$$h_\theta(x) = \theta_0 + \theta_1 x_1 + ... + \theta_d x_n$$
 
 	For simplicity we consider $x_0 = 1$ (intercept term):
 
-$$h(x) = \sum_{i=0}^d \theta_i x_i$$
+$$h_\theta(x) = \sum_{i=0}^n \theta_i x_i$$
 
-	Or in a vectorial expression: $h(x) = \theta^Tx$
+	Or in a vectorial expression: $h_\theta(x) = \theta^Tx$
 	
-3. Try to find a set of parameters (called weights) $\theta_0$, $\theta_1$, ... $\theta_d$ with the less loss
+3. Try to find a set of parameters (called weights) $\theta_0$, $\theta_1$, ... $\theta_n$ so that $h(x)$ is close to $y$
+4. For that we define a cost function $J(\theta)$. There are many but we use the least-squares.
+
+$$J(\theta) = \frac{1}{2}\sum_{i=1}^n(h_\theta(x_i) - y_i)^2$$
 ## Algorithm
 It is not usually possible to adjust
