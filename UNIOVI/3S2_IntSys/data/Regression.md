@@ -27,5 +27,5 @@ $$h_\theta(x) = \sum_{i=0}^n \theta_i x_i$$
 4. For that we define a cost function $J(\theta)$. There are many but we use the least-squares.
 
 $$J(\theta) = \frac{1}{2}\sum_{i=1}^n(h_\theta(x_i) - y_i)^2$$
-## Algorithm
-It is not usually possible to adjust
+## Gradient Descent
+Algorithm to obtain 
