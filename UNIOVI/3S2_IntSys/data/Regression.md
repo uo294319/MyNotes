@@ -17,11 +17,11 @@ $$h:x\to y$$
 
 $$h_\theta(x) = \theta_0 + \theta_1 x_1 + ... + \theta_d x_n$$
 
-	- For simplicity we consider $x_0 = 1$ (intercept term):
+For simplicity we consider $x_0 = 1$ (intercept term):
 
 $$h_\theta(x) = \sum_{i=0}^n \theta_i x_i$$
 
-	- Or in a vectorial expression: $h_\theta(x) = \theta^Tx$
+Or in a vectorial expression: $h_\theta(x) = \theta^Tx$
 	
 3. Try to find a set of parameters (called weights) $\theta_0$, $\theta_1$, ... $\theta_n$ so that $h(x)$ is close to $y$
 4. For that we define a cost function $J(\theta)$. There are many but we use the least-squares.
