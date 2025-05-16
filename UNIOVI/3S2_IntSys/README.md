@@ -6,7 +6,7 @@
 
 ---
 ## Theory
-
+- [Linear Regression](data/Regression.md)
 ---
 ## Practice
 - [Preprocessing & Visualization](Lab2.md)
