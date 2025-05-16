@@ -28,4 +28,11 @@ $$h_\theta(x) = \sum_{i=0}^n \theta_i x_i$$
 
 $$J(\theta) = \frac{1}{2}\sum_{i=1}^n(h_\theta(x_i) - y_i)^2$$
 ## Gradient Descent
-Algorithm to obtain 
+### Def
+Algorithm to obtain the weights $\theta$ that minimices the cost function $J(\theta)$.
+### Algorithm
+$$
+\theta := \theta_0 \\
+\text{repeat}
+\quad\theta := \theta - \
+$$
