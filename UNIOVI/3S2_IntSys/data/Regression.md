@@ -36,6 +36,8 @@ $$
 &\theta := \theta_0 \\
 &\text{repeat} \\
 &\quad\theta := \theta - \gamma\times \frac{
-\partial J}{\partial \theta}
+\partial J}{\partial \theta}\\
+&\text{until we reach a minimun} \\
+&\text{return}\:\theta
 \end{split}\end{equation}
 $$
