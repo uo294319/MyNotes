@@ -19,4 +19,5 @@ For simplicity we consider $x_0 = 1$ (intercept term):
 
 $$h(x) = \sum_{i=0}^d \theta_i x_i$$
 
-Or in a vectorial way: $h(x) = \theta^Tx$
+Or in a vectorial expression: $h(x) = \theta^Tx$
+## Algorithm
