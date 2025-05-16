@@ -8,12 +8,14 @@
 > **Linear regression** is a supervised machine learning algorithm that models the linear relationship between a dependent variable (target or output) and one or more independent variables (features or inputs).
 
 ## Mathematical definition
-
-1. Given a set of features $x_1$, $x_2$, ... $x_d$ we try to predict the target $y$.
+### 1. Objective
+Given a set of features $x_1$, $x_2$, ... $x_d$ we try to predict the target $y$.
 
 $$h:x\to y$$
 
-2. So we define the linear function $h_\theta(x)$
+### 2. Linear Regression Function
+We define the linear function $h_\theta(x)$
+Try to find a set of parameters (called weights) $\theta_0$, $\theta_1$, ... $\theta_n$ so that $h(x)$ is close to $y$
 
 $$h_\theta(x) = \theta_0 + \theta_1 x_1 + ... + \theta_d x_n$$
 
@@ -23,8 +25,9 @@ $$h_\theta(x) = \sum_{i=0}^n \theta_i x_i$$
 
 Or in a vectorial expression: $h_\theta(x) = \theta^Tx$
 	
-3. Try to find a set of parameters (called weights) $\theta_0$, $\theta_1$, ... $\theta_n$ so that $h(x)$ is close to $y$
-4. For that we define a cost function $J(\theta)$. There are many but we use the least-squares.
+### 3. Cost Function
+We define a cost function $J(\theta)$.
+There are many but we use the least-squares.
 
 $$J(\theta) = \frac{1}{2}\sum_{i=1}^n(h_\theta(x_i) - y_i)^2$$
 ## Gradient Descent
