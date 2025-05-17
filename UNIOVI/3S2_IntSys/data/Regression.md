@@ -34,7 +34,6 @@ $$J(\theta) = \frac{1}{2}\sum_{i=1}^n(h_\theta(x_i) - y_i)^2$$
 - The objective is to minimise $J(\theta)$ or $\theta \leftarrow \arg\min_\theta J(\theta)$.
 - To do so we can use the gradient descent algorithm.
 ### 4. Gradient Descent
-
 Algorithm to obtain the weights $\theta$ that minimices the cost function $J(\theta)$.
 
 $$
@@ -48,8 +47,12 @@ $$
 \end{split}\end{equation}
 $$
 
-- Loop step must be simultaneous to all $\theta$
-- Learning rate
-	- Too large may cause the algorithm to diverge.
-- Grants a local minimun but not an absolute one.
+- Loop step
+	- Must be simultaneous to all $\theta$
+	- Grants a local minimun but not an absolute one.
 	- As $h(x)$ is linear, there will only be 1 minimun.
+- Learning rate
+	- How much adjust $\theta$ each step.
+	- Too small may cause the algorithm to converge too slow.
+	- Too large may cause the algorithm to diverge.
+- 
