@@ -29,6 +29,7 @@ Or in a vectorial expression: $h_\theta(x) = \theta^Tx$
 - We define a cost function $J(\theta)$.
 - $J(\theta)$ tells us how apart is $h_\theta(x)$ (prediction) from $y$ (real value) based on the weights.
 - The objective is to minimise $J(\theta)$ or $\theta \leftarrow \arg\min_\theta J(\theta)$.
+- The process of minimising the cost is called training.
 
 $$J(\theta) = \frac{1}{|D|}\sum_{(x, y)\in D}loss(y, h_\theta(x))$$
 
@@ -64,7 +65,6 @@ $$
 	- Small cause the algorithm to converge slow.
 	- But too large may cause the algorithm to diverge.
 - Derivative parte
-	- As we approximate the minimum, the step minimises.
 	- Stochastic Gradient Descent with mini batch
 		- Derivative part is difficult to calculate.
 		- We estimate the average with the subset $D'$.
@@ -76,7 +76,11 @@ $$
 \partial}{\partial \theta_j}J(\theta)\\
 &\theta_j := \theta_j - \gamma\times \frac{
 \partial}{\partial \theta_j}\frac{1}{2}(h_\theta(x) - y)^2\\
-&\theta_j := \theta_j - \gamma\times \frac{
-\partial}{\partial \theta_j}\frac{1}{2}(h_\theta(x) - y)^2\\
+&\theta_j := \theta_j - \gamma\times (h_\theta(x) - y) \times\frac{
+\partial}{\partial \theta_j}(h_\theta(x) - y)\\
+&\theta_j := \theta_j - \gamma\times (h_\theta(x) - y) \times x_j\\
 \end{split}\end{equation}
 $$
+
+- This means that as we approximate the minimum, the update minimises.
+---
