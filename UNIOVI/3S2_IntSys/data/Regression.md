@@ -69,6 +69,10 @@ $$
 		- Derivative part is difficult to calculate.
 		- We estimate the average with the subset $D'$.
 
+If we do the derivative:
 $$
-
+\frac{
+\partial}{\partial \theta}J(\theta) = \frac{
+\partial}{\partial \theta}\frac{1}{2}(h_\theta(x) - y)^2= (h_\theta(x) - y)\times\frac{
+\partial}{\partial \theta}(h_\theta(x) - y)
 $$
