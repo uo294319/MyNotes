@@ -13,7 +13,7 @@ Given a set of features $x_1$, $x_2$, ... $x_d$ we want to be able to predict th
 
 $$h:x\mapsto y$$
 
-- We know some $x$ and $y$  in order to establish a linear relation. Dataset.
+- We know some $x$ and $y$  in order to establish a linear relation called Dataset ($D$).
 ### 2. Linear Regression Function
 We define the linear function $h_\theta(x)$
 Try to find a set of parameters (called weights) $\theta_0$, $\theta_1$, ... $\theta_n$ so that $h(x)$ is close to $y$
@@ -52,13 +52,18 @@ $$
 \end{split}\end{equation}
 $$
 
+- The $\theta_0$ is chosen at random.
 - Loop step
 	- Must be simultaneous to all $\theta$
 	- Grants a local minimun but not an absolute one.
-	- As $h(x)$ is linear, there will only be 1 minimun.
+	- As $h(x)$ is linear:
+		- There will only be 1 minimun.
 - Learning rate
 	- How much we adjust $\theta$ each step.
 	- Too small may cause the algorithm to converge too slow.
 	- Too large may cause the algorithm to diverge.
 - Derivative parte
 	- As we approximate the minimum, the step minimises.
+	- Stochastic Gradient Descent with mini batch
+		- Derivative part is difficult to calculate.
+		- We estimate the average with the subset $D'$
