@@ -71,8 +71,12 @@ $$
 
 If we do the derivative:
 $$
-\frac{
-\partial}{\partial \theta}J(\theta) = \frac{
-\partial}{\partial \theta}\frac{1}{2}(h_\theta(x) - y)^2= (h_\theta(x) - y)\times\frac{
-\partial}{\partial \theta}(h_\theta(x) - y)
+\begin{equation}\begin{split}
+&\theta_j := \theta_j - \gamma\times \frac{
+\partial}{\partial \theta_j}J(\theta)\\
+&\theta_j := \theta_j - \gamma\times \frac{
+\partial}{\partial \theta_j}\frac{1}{2}(h_\theta(x) - y)^2\\
+&\theta_j := \theta_j - \gamma\times \frac{
+\partial}{\partial \theta_j}\frac{1}{2}(h_\theta(x) - y)^2\\
+\end{split}\end{equation}
 $$
