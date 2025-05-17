@@ -9,10 +9,11 @@
 
 ## Mathematical definition
 ### 1. Objective
-Given a set of features $x_1$, $x_2$, ... $x_d$ we try to predict the target $y$.
+Given a set of features $x_1$, $x_2$, ... $x_d$ we want to be able to predict the target $y$.
 
 $$h:x\mapsto y$$
 
+- We know some $x$ and $y$  in order to establish a linear relation. Dataset.
 ### 2. Linear Regression Function
 We define the linear function $h_\theta(x)$
 Try to find a set of parameters (called weights) $\theta_0$, $\theta_1$, ... $\theta_n$ so that $h(x)$ is close to $y$
@@ -28,12 +29,13 @@ Or in a vectorial expression: $h_\theta(x) = \theta^Tx$
 - We define a cost function $J(\theta)$.
 - $J(\theta)$ tells us how apart is $h_\theta(x)$ (prediction) from $y$ (real value) based on the weights.
 - The objective is to minimise $J(\theta)$ or $\theta \leftarrow \arg\min_\theta J(\theta)$.
-- 
+
+$$J(\theta) = \frac{1}{|D|}\sum_{(x, y)\in D}loss(y, h_\theta(x))$$
+
 There are many but we use the least-squares.
 
 $$J(\theta) = \frac{1}{2}\sum_{i=1}^n(h_\theta(x_i) - y_i)^2$$
 
-- 
 - To do so we can use the gradient descent algorithm.
 ### 4. Gradient Descent
 - Algorithm to obtain the weights $\theta$ that minimices the cost function $J(\theta)$.
