@@ -53,17 +53,22 @@ $$
 $$
 
 - The $\theta_0$ is chosen at random.
-- Loop step
+- Loop update
 	- Must be simultaneous to all $\theta$
-	- Grants a local minimun but not an absolute one.
+	- Grants a local minimum but not an absolute one.
 	- As $h(x)$ is linear:
-		- There will only be 1 minimun.
+		- $J$ is a convex quadratic function.
+		- There will only be 1 minimum, so we approximate to the absolute minimum.
 - Learning rate
-	- How much we adjust $\theta$ each step.
-	- Too small may cause the algorithm to converge too slow.
-	- Too large may cause the algorithm to diverge.
+	- How much we adjust $\theta$ each update.
+	- Small cause the algorithm to converge slow.
+	- But too large may cause the algorithm to diverge.
 - Derivative parte
 	- As we approximate the minimum, the step minimises.
 	- Stochastic Gradient Descent with mini batch
 		- Derivative part is difficult to calculate.
-		- We estimate the average with the subset $D'$
+		- We estimate the average with the subset $D'$.
+
+$$
+
+$$
