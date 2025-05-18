@@ -7,7 +7,7 @@
 ---
 ## Theory
 - [T2 - Preprocessing and visualisation](data/T2.md)
-- T3 - Machine Learning (ML)
+- [T3 - Machine Learning (ML)](data/T3.md)
 - T4 - Vectorial Representation
 - T5 - Graph & Local Search
 - T6 - Recommender Systems
