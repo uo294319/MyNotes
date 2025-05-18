@@ -10,7 +10,7 @@
 - [T3 - Machine Learning (ML)](data/T3.md)
 - [T4 - Vectorial Representation](data/T4.md)
 - [T5 - Graph & Local Search](data/T5.md)
-- T6 - Recommender Systems
+- [T6 - Recommender Systems](data/T6.md)
 - T7 - Deep Learning & CNN
 - [T8 - Linear Regression](data/Regression.md)
 - T8 - Classification. Logistic Regression & Generative Learning
