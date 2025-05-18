@@ -6,7 +6,9 @@
 
 ---
 ## Theory
-- [Preprocessing and visualisation](data/T2.md)
+- [T2 - Preprocessing and visualisation](data/T2.md)
+
+
 - [Linear Regression](data/Regression.md)
 ---
 ## Practice
