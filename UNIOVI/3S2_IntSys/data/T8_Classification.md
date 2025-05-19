@@ -25,5 +25,11 @@
 ---
 ## Generative Learning
 - We want to distinguish between different classes.
-- In logistinc regression we model $p(y|$
+	- In logistic regression we model $p(y|x)$
+	- Now we want to model $p(x|y)$
+	- Use Bayes rule $p(y|x) = \frac{p(x|y)\times p(y)}{p(x)}$
+	- Gaussian Discriminant Analysis (GDA) performs better than logistic regression.
+- Naive Bayes
+	- With a set of inputs $x$
+	- We make predictions $$
 ---
