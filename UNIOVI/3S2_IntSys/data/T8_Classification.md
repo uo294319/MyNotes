@@ -18,11 +18,10 @@
 	- We define a threshold.
 	- If $h_\theta(x)$ is greater than the threshold we assume $y = 1$, otherwise we assume $y = 0$.
 - Multi-class Classification
-	- We produce a set of $k$ outputs that are not a probability distribution.
-		- $y \notin  \{0, 1\}$
-		- Sum of outputs is not necessarily $1$.
+	- We produce a set of $k$ outputs that are a multinomial distribution.
+		- Each output is the probability for that class.
+		- Sum of outputs is $1$.
 	- We use softmax function.
-	- 
 ---
 ## Generative Learning
 
