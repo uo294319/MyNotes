@@ -18,4 +18,6 @@
 		- For the full features $m$ we only use $k$.
 			- $k=m$ same as bagging
 			- $k < m$ random forest
-		- $k$ wor
+		- $k$ works as a hyperparameter.
+	- Problem when only a few features are relevant.
+---
