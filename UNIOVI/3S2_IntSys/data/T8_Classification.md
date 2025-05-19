@@ -11,7 +11,8 @@
 	- We try to maximise the the likelihood of observing the actual data under the model.
 	- This means maximising $\log L(\theta) = \log \prod P(y^{(i)}|x^{(i)}, \theta)$
 	- We minimize the cost function (cross entropy) with gradient descent.
-		- At the end same expression as 
+		- At the end same expression as linear regression but with new $h_\theta(x)$
+- Builds an hypothesis that estimates the probability that an entry $x$ belongs to a class.
 ---
 ## Generative Learning
 
