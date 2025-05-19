@@ -14,7 +14,7 @@
 - [T7 - Deep Learning & CNN](data/T7.md)
 - [T8 - Linear Regression](T8_Regression.md)
 - [T8 - Classification. Logistic Regression & Generative Learning](T8_Classification.md)
-- T8 - Generalisation, regularisation and model selection
+- [T8 - Generalisation, regularisation and model selection](T8_Generalisation.md)
 - T8 - Ensemble learning
 ---
 ## Practice
