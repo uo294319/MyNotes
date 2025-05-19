@@ -51,18 +51,25 @@
 - Armarios. Al menos 1 unidad para cada:
 	- 24 tomas (de 4 pares, para guía pasacable o datos)
 	- 12 enlaces de fibra
-	- 6 tomas eléctricas a instalar.
+	- Al menos uno para cada 6 tomas eléctricas a instalar.
 	- Al menos 30% de tomas libres para futuros usos.
 ---
 ## Subsistema troncal de edificio
 - Distancia RE a RP dada por cable.
 - Al menos 1 par de fibras por cada 10 TT
-- Armarios.
-	- Al menos 1 por cada panel o bandeja.
-	- Al menos uno para cada 8 enlaces de fibra para commutadores edificio.
-	- Al menos uno para cada 12 enlaces de fibra para bandejas de fibra.
+- Armarios.A l menos uno para cada 
+	- Panel o bandeja.
+	- 8 enlaces de fibra para commutadores edificio.
+	- 12 enlaces de fibra para bandejas de fibra.
 	- 6 tomas eléctricas a instalar.
-	- Al menos 30% de tomas libres para futuros usos.
+	- 30% de tomas libres para futuros usos.
 ---
 ## Subsistema troncal de Campus
-- Distancia maxima RC a RE de 1Km
+- Distancia maxima RC a RE de $1Km$
+- Al menos 1 par de fibras por cada 5 pares de fibra
+- Armarios. Al menos uno para cada 
+	- panel o bandeja.
+	- 12 puntos de fibra.
+	- 6 tomas eléctricas a instalar.
+	- Al menos 10 para electronica de red y equipos de proveedores
+	- Al menos 30% de tomas libres para futuros usos.
