@@ -24,5 +24,6 @@
 	- We use softmax function.
 ---
 ## Generative Learning
-
+- We want to distinguish between different classes.
+- In logistinc regression we model $p(y|$
 ---
