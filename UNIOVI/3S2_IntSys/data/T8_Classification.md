@@ -31,5 +31,5 @@
 	- Gaussian Discriminant Analysis (GDA) performs better than logistic regression.
 - Naive Bayes
 	- With a set of inputs $x$
-	- We make predictions $$
+	- We make predictions $p(y | x) = p(x|y)\times p(y) = \prod p(x_i|y)\times p(y)$
 ---
