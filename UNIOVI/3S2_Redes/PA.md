@@ -14,6 +14,7 @@
 	3. Toma de Telecomunicaciones 
 3. Subsistema de área de trabajo
 	1. Equipo terminal
+---
 ## Componentes
 ## Tipos de redes
 - Redes pequeñas (< 100 TT) usan cobre
@@ -33,3 +34,15 @@
 ### Armarios
 - Medidos en unidades de rack  1U = 4.45cm
 - 19" de ancho
+---
+## Relación sedes-subsistemas
+- RP siempre
+- RE si +2 plantas o 2 plantas de mas de 500m o 1 planta de más de 1000m
+- RC si más de 1 edificio
+---
+## Subsistema horizontal
+- TT
+	- Al menos 1 toma doble por usuario y despacho
+	- Al menos 1 toma doble cada $10m^2$ útiles.
+	- Al menos 1 toma inalámbrica cada $200m^2$
+- 
