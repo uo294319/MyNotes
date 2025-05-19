@@ -8,9 +8,10 @@
 	- We will use the logistic function or sigmoid $g(z) = \frac{1}{1+\exp(-z)}$
 	- So we use $h_\theta = g(\theta^T x)$ being $\theta$ the weights.
 - We find the best $\theta$ by maximum likelihood.
-	- We try to maximize the the likelihood of observing the actual data under the model.
-	- This means maximizing $log$
-	- We define the cost function $J(\theta) = $
+	- We try to maximise the the likelihood of observing the actual data under the model.
+	- This means maximising $\log L(\theta) = \log \prod P(y^{(i)}|x^{(i)}, \theta)$
+	- We minimize the cost function (cross entropy) with gradient descent.
+		- At the end same expression as 
 ---
 ## Generative Learning
 
