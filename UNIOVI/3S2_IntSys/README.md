@@ -12,9 +12,9 @@
 - [T5 - Graph & Local Search](data/T5.md)
 - [T6 - Recommender Systems](data/T6.md)
 - [T7 - Deep Learning & CNN](data/T7.md)
-- [T8 - Linear Regression](data/Regression.md)
-- T8 - Classification. Logistic Regression & Generative Learning
-- T8 - Generalization, regularization and model selection
+- [T8 - Linear Regression](T8_Regression.md)
+- [T8 - Classification. Logistic Regression & Generative Learning](T8_Classification.md)
+- T8 - Generalisation, regularisation and model selection
 - T8 - Ensemble learning
 ---
 ## Practice
