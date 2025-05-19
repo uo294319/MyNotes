@@ -4,8 +4,9 @@
 
 ---
 ## Logistic Regression
-- We try to have $h:x\mapsto y$  where $y \in {0, 1}$.
+- We try to have $h:x\mapsto y$  where $y \in \{0, 1\}$.
 - We will use the logistic function or sigmoid $g(z) = \frac{1}{1+\exp(-z)}$
+- So we use $h_\theta = g(\theta^T x)$
 ---
 ## Generative Learning
 
