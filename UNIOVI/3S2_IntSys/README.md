@@ -15,7 +15,7 @@
 - [T8 - Linear Regression](T8_Regression.md)
 - [T8 - Classification. Logistic Regression & Generative Learning](T8_Classification.md)
 - [T8 - Generalisation and regularisation](T8_Generalisation.md)
-- T8 - Ensemble learning
+- [T8 - Ensemble learning](T8_Ensemble.md)
 ---
 ## Practice
 - [Preprocessing & Visualization](Lab2.md)
