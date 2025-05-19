@@ -12,7 +12,11 @@
 	- This means maximising $\log L(\theta) = \log \prod P(y^{(i)}|x^{(i)}, \theta)$
 	- We minimize the cost function (cross entropy) with gradient descent.
 		- At the end same expression as linear regression but with new $h_\theta(x)$
-- Builds an hypothesis that estimates the probability that an entry $x$ belongs to a class.
+- Conclusion
+	- Builds an hypothesis that estimates the probability that an entry $x$ belongs to a class.
+- Separation rule
+	- We define a threshold.
+	- If $h_\theta(x)$ is greater than the threshold we assume $y = 1$, otherwise we assume $y = 0$.
 ---
 ## Generative Learning
 
