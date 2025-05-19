@@ -37,7 +37,7 @@
 ---
 ## Relación sedes-subsistemas
 - RP siempre
-- RE si +2 plantas o 2 plantas de mas de 500m o 1 planta de más de 1000m
+- RE si +2 plantas o 2 plantas de mas de $500m$ o 1 planta de más de $1000m$
 - RC si más de 1 edificio
 ---
 ## Subsistema horizontal
@@ -45,4 +45,12 @@
 	- Al menos 1 toma doble por usuario y despacho
 	- Al menos 1 toma doble cada $10m^2$ útiles.
 	- Al menos 1 toma inalámbrica cada $200m^2$
-- 
+- RP
+	- Distancia máxima de $90m$ entre TT y repartidor de planta
+	- Cerca de vertical de edificio. Preferible misma posición en todas plantas.
+- Armarios. Al menos 1 unidad para cada:
+	- 24 tomas (de 4 pares, para guía pasacable o datos)
+	- 12 enlaces de fibra
+	- 6 tomas eléctricas a instalar.
+	- Al menos 30% de tomas libres para futuros usos.
+	- 
