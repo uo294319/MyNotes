@@ -83,4 +83,5 @@ $$
 $$
 
 - This means that as we approximate the minimum, the update minimises.
+- This is called Least Mean Squares (LMS)
 ---
