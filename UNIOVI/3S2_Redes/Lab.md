@@ -1,6 +1,6 @@
 
 ---
-# Ingeniería de Redes
+# Lab
 
 [HOME](../../README.md)
 
