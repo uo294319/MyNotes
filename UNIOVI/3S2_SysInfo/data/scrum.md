@@ -48,7 +48,12 @@
 - Selected User Stories are broken down into several Sprint Tasks
 ## Scrum process
 1. Product Backlog Refinement
-	1. Review and update th
-	2. The first one of the project is called Kick-off meeting
-2. Sprint Planning Meeting
+	1. Process of reviewing and updating the product backlog
+	2. PO collaborates with team to:
+		1. Clarify requirements.
+		2. Split large (epic) stories into smaller items.
+		3. Add estimates and priorities.
+	3. The first one of the project is called Kick-off meeting
+2. Sprint Execution
+	1. Sprint Planning Meeting
 3. 
