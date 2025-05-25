@@ -13,6 +13,7 @@
 - [Sistemas Distribuidos (EN)](UNIOVI/3S2_DistSys/README.md)
 - [Sistemas Inteligentes (EN)](UNIOVI/3S2_IntSys/README.md)
 - [Infraestructura Informática (EN)](UNIOVI/3S2_Infra/README.md)
+- [Information Systems (EN)](UNIOVI/3S2_SysInfo/README)
 - [Ingeniería de Redes](UNIOVI/3S2_Redes/README.md)
 
 ---
