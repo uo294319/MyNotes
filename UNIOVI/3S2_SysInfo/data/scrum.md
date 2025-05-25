@@ -23,12 +23,12 @@
 	    - Helps the Scrum Team to correctly implement Scrum practices
 	    - Removes impediments to the team's progress.
 	    - Cannot be the same person as the PO.
-## Product & Sprint Backlog
-- **Product Backlog Definition**
+## Product Backlog
+- **Definition**
 	- List of user requirements often expressed as User Stories (US) ordered by priority.
 	- Reflects customer needs. It is owned and managed by the PO. 
 	- Evolves over time as new requirements emerge or priorities change.
-- **Product Backlog Contents**
+- **Contents**
 	- **Description** (card format)
 		- Description of the functionality in terms of the value it brings to the user.
 		- Includes:
@@ -41,7 +41,8 @@
 		- Estimated by the development team.
 		- Metrics used are usually story points or working days, but fictional may also be used.
 		- Techniques like using Fibonacci numbers are used.
-- **Sprint Backlog**
-	- Each sprint the team moves some US from the product backlog to the sprint backlog.
-	- Chosen by highest priority first, but they may decide to change order.
-	- One US can be divided into several sprint tasks.
+## Sprint Backlog
+- Subset of the product backlog that will be implemented in a sprint.
+- Done by the developing team at the beginning of each sprint.
+- Selection is based on priority and team capabilities.
+- Selected User Stories are broken down into several Sprint Tasks
