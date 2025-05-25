@@ -13,6 +13,7 @@
 	    - 2-4 weeks
 - **Roles**
     - **Product Owner (PO)**:
+	    - Plays the role of customer and represents the business and clients
 	    - Maximizes the value of the product
 	    - Manages the Product Backlog
 	    - Ensures the team builds the right product for the customer.
