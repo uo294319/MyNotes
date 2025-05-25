@@ -23,11 +23,11 @@
 	    - Helps the Scrum Team to correctly implement Scrum practices
 	    - Removes impediments to the team's progress.
 	    - Cannot be the same person as the PO.
-## Product Backlog
-- **Definition**
+## Product & Sprint Backlog
+- **Product Backlog Definition**
 	- List of user stories (user requirements) ordered by priority.
-	- Managed by the PO. Relationship with clients.
-- **Contents**
+	- The Product Backlog is managed by the PO. Relationship with clients.
+- **Product Backlog Contents**
 	- **Description** (card format)
 		- Description of the functionality in terms of the value it brings to the user.
 		- Includes:
@@ -39,3 +39,7 @@
 	- **Value and effort estimate**
 		- Can be material like days or invented metrics such as "gamusinos".
 		- Techniques like using Fibonacci numbers are used.
+- **Sprint Backlog**
+	- Each sprint the team moves some US from the product backlog to the sprint backlog.
+	- Chosen by highest priority first, but they may decide to change order.
+	- One US can be divided into several sprint tasks.
