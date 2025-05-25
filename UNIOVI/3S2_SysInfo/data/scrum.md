@@ -49,11 +49,17 @@
 ## Scrum process
 1. Kick-off meeting
 2. Sprint Planning Meetings (2 meetings in one day)
-	1. Meeting 1. Requirements
-		1. PO+Team decides what is to be done assisted by the scrum master.
-		2. Highest priority items are reviewed, discussed and 
+	1. Meeting 1. Requirements (half day)
+		1. PO+Team decides WHAT is to be done assisted by the scrum master.
+		2. Highest priority items are reviewed, discussed and refined.
+		3. Commitment to what will be done in the sprint is made.
+	2. Meeting 2. Planning (half day)
+		1. Team decides HOW it is going to be done in a detailed manner.
+		2. Additional information / Prototypes / testing and other
+		3. Final selection of elements in the sprint backlog.
 3. Sprint Execution
-	1. 
+	1. Daily scrum (15 min - Stand-up meeting)
+		1. Each member reports things done, that will be doing and impediments.
 	2. Backlog grooming
 		1. Process of reviewing and updating the product backlog
 		2. PO collaborates with team to:
