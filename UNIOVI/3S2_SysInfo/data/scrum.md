@@ -24,4 +24,11 @@
 	    - Removes impediments to the team's progress.
 	    - Cannot be the same person as the PO.
 ## Product Backlog
-- 
+- Definition
+	- List of user stories (user requirements) ordered by priority.
+	- Managed by the PO. Relationship with clients.
+- Contents
+	- Description
+		- User story Card format
+	- Priority
+	- Value and effort estimate
