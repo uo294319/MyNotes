@@ -6,6 +6,8 @@
 ## Introduction
 - **Definition**
     - **Development framework** used in Agile software development.
+	    - Adapt to changes rapidly.
+	    - Also used in other areas.
     - **Iterative and incremental**. Deliver value quickly and frequently.
     - Sprints
 	    - Development team implements a set of user stories (requirements)
@@ -13,10 +15,13 @@
 	    - 2-4 weeks
 - **Roles**
     - **Product Owner (PO)**:
-	    - Plays the role of customer and represents the business and clients
-	    - Maximizes the value of the product
+	    - Plays the role of customer
+	    - Represents the business and clients
+		    - Interacts with stakeholders
+		    - Decision-making authority
+		    - Ensures the team builds the right product
+		    - Maximises the value of the product
 	    - Manages the Product Backlog
-	    - Ensures the team builds the right product for the customer.
     - **Development Team**:
         - Self-organized: Chooses how best to accomplish their work.
         - Cross-functional: Has all the skills needed to deliver a working product increment.
