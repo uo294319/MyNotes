@@ -3,7 +3,7 @@
 [Go Back](UNIOVI/3S2_IntSys/README.md)
 
 ---
-## ## Introduction
+## Introduction
 - **Definition**
     - **Development framework** used in Agile software development.
     - **Iterative and incremental**. Deliver value quickly and frequently.
@@ -20,5 +20,8 @@
         - Self-organized: Chooses how best to accomplish their work.
         - Cross-functional: Has all the skills needed to deliver a working product increment.
     - **Scrum Master**:  
-    - 
-    - Acts as a servant-leader to the Scrum Team, facilitating Scrum practices and removing impediments to the team's progress.
+	    - Helps the Scrum Team to correctly implement Scrum practices
+	    - Removes impediments to the team's progress.
+	    - Cannot be the same person as the PO.
+## Product Backlog
+- 
