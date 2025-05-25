@@ -25,8 +25,9 @@
 	    - Cannot be the same person as the PO.
 ## Product & Sprint Backlog
 - **Product Backlog Definition**
-	- List of user stories (user requirements) ordered by priority.
-	- The Product Backlog is managed by the PO. Relationship with clients.
+	- List of user requirements often expressed as User Stories (US) ordered by priority.
+	- Reflects customer needs. It is owned and managed by the PO. 
+	- Evolves over time as new requirements emerge or priorities change.
 - **Product Backlog Contents**
 	- **Description** (card format)
 		- Description of the functionality in terms of the value it brings to the user.
@@ -37,7 +38,8 @@
 		- Other US: Epic or technical
 	- **Priority**
 	- **Value and effort estimate**
-		- Can be material like days or invented metrics such as "gamusinos".
+		- Estimated by the development team.
+		- Metrics used are usually story points or working days, but fictional may also be used.
 		- Techniques like using Fibonacci numbers are used.
 - **Sprint Backlog**
 	- Each sprint the team moves some US from the product backlog to the sprint backlog.
