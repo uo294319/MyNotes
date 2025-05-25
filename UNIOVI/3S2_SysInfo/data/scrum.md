@@ -24,11 +24,18 @@
 	    - Removes impediments to the team's progress.
 	    - Cannot be the same person as the PO.
 ## Product Backlog
-- Definition
+- **Definition**
 	- List of user stories (user requirements) ordered by priority.
 	- Managed by the PO. Relationship with clients.
-- Contents
-	- Description
-		- User story Card format
-	- Priority
-	- Value and effort estimate
+- **Contents**
+	- **Description** (card format)
+		- Description of the functionality in terms of the value it brings to the user.
+		- Includes:
+			- As a [role] I want [feature] for [value].
+			- Acceptance criteria to know when it is considered complete (requirements).
+			- Conversations with PO for further details.
+		- Other US: Epic or technical
+	- **Priority**
+	- **Value and effort estimate**
+		- Can be material like days or invented metrics such as "gamusinos".
+		- Techniques like using Fibonacci numbers are used.
