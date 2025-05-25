@@ -29,6 +29,7 @@
 	    - Helps the Scrum Team to correctly implement Scrum practices
 	    - Removes impediments to the team's progress.
 	    - Cannot be the same person as the PO.
+---
 ## Product Backlog
 - **Definition**
 	- List of user requirements often expressed as User Stories (US) ordered by priority.
@@ -47,14 +48,15 @@
 		- Estimated by the development team.
 		- Metrics used are usually story points or working days, but fictional may also be used.
 		- Techniques like using Fibonacci numbers are used.
+---
 ## Sprint Backlog
 - Subset of the product backlog that will be implemented in a sprint.
 - Done by the developing team at the beginning of each sprint.
 - Selection is based on priority and team capabilities.
 - Selected User Stories are broken down into several Sprint Tasks
+---
 ## Scrum process
-1. Kick-off meeting
-2. Sprint Planning Meetings (2 meetings in one day)
+1. Sprint Planning Meetings (2 meetings in one day)
 	1. Meeting 1. Requirements (half day)
 		1. PO+Team decides WHAT is to be done assisted by the scrum master.
 		2. Highest priority items are reviewed, discussed and refined.
@@ -63,7 +65,7 @@
 		1. Team decides HOW it is going to be done in a detailed manner.
 		2. Additional information / Prototypes / testing and other
 		3. Final selection of elements in the sprint backlog.
-3. Sprint Execution
+2. Sprint Execution
 	1. Daily scrum (15 min - Stand-up meeting)
 		1. Each member reports things done, that will be doing and impediments.
 	2. Backlog grooming
@@ -72,10 +74,11 @@
 			1. Clarify requirements.
 			2. Split large (epic) stories into smaller items.
 			3. Add or modify estimates and priorities.
-4. Closing the Sprint (2 meetings in one day)
+3. Closing the Sprint (2 meetings in one day)
 	1. Meeting 1: Sprint Review
 		1. A demo is shown to the PO and other stakeholders.
 		2. Inspect the product and get feedback
 	2. Meeting 2: Retrospective
 		1. Team inspects and adapts the process without the PO.
 		2. Think things that went well, things that did not and how to improve them.
+---
