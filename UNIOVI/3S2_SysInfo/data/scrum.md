@@ -46,3 +46,9 @@
 - Done by the developing team at the beginning of each sprint.
 - Selection is based on priority and team capabilities.
 - Selected User Stories are broken down into several Sprint Tasks
+## Scrum process
+1. Product Backlog Refinement
+	1. Review and update th
+	2. The first one of the project is called Kick-off meeting
+2. Sprint Planning Meeting
+3. 
