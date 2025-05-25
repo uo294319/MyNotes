@@ -69,5 +69,7 @@
 4. Closing the Sprint (2 meetings in one day)
 	1. Meeting 1: Sprint Review
 		1. A demo is shown to the PO and other stakeholders.
-		2. Inspect the product
+		2. Inspect the product and get feedback
 	2. Meeting 2: Retrospective
+		1. Team inspects and adapts the process without the PO.
+		2. Think things that went well, things that did not and how to improve them.
