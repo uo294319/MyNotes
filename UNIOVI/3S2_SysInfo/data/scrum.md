@@ -66,4 +66,8 @@
 			1. Clarify requirements.
 			2. Split large (epic) stories into smaller items.
 			3. Add or modify estimates and priorities.
-4. 
+4. Closing the Sprint (2 meetings in one day)
+	1. Meeting 1: Sprint Review
+		1. A demo is shown to the PO and other stakeholders.
+		2. Inspect the product
+	2. Meeting 2: Retrospective
