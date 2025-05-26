@@ -10,7 +10,12 @@
 	- Hidden or implicit requirements.
 	- Lack of knowledge of the client's business
 - Software requirement
-	- Statement which translates or expresses a need and its associated constraints and conditions
+	- Statement which expresses a need and its associated constraints and conditions.
+	- Describe the capabilities, characteristics and limitations of a software product.
+	- Can have different levels of specification
+		- User requirements. (general)
+			- Contractor
+		- System requirements. Specificly defines the system (Example. Developer)
 
 ---
 ## Examples, levels, types
