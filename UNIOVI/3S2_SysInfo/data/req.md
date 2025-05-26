@@ -34,6 +34,13 @@
 	3. Integration Requirements
 	4. Other Requirements (Restrictions)
 ---
+## Story Mapping
+(by columns)
+1. **Actors**. Who benefits from each goal. Can be repeated.
+2. **Goal**. Major objectives. Business process.
+3. **Activity**. Goal split into user actions to obtain value.
+4. **Features**. 
+---
 ## Requirements characteristics
 
 
