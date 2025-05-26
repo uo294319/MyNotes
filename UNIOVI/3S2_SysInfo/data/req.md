@@ -30,7 +30,17 @@
 	- Card format: `As a [role] I want [feature] for [business value]`
 ---
 ## Elaboration of the Product Backlog
-
+- Meeting 1. Sprint Planning
+	- US should be doable in a sprint and express a single independent function.
+	- Refinement in smaller US
+		- Starting by the highest priority
+		- Include Acceptance criteria
+			- Details and conditions to be met.
+			- Express users needs through conversations with the PO.
+			- Are not acceptance tests.
+		- Conversations
+			- Raise questions about the details of the acceptance criteria
+			- They should be reflected in the acceptance criteria.
 ---
 ## Elaboration of the Sprint Backlog
 
