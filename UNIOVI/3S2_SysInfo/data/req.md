@@ -3,7 +3,7 @@
 [Go Back](../README.md)
 
 ---
-## Introduction and definitions
+## Definition
 - **Objective:** Understand client needs
 - **Some problems:**
 	- Communication Users do not understand how software works.
@@ -13,16 +13,20 @@
 	- Statement which expresses a need and its associated constraints and conditions.
 	- Describe the capabilities, characteristics and limitations of a software product.
 	- Can have different levels of specification
-		- User requirements. (general)
+		1. Business requirements
+		2. User requirements. (general)
 			- Define the services needed by the users and other stakeholders.
 			- Example. Done by company for tendering by several contractors.
-		- System requirements. (specific)
+		3. System requirements. (specific)
 			- Transform the user requirements into a technical view of a required product.
 			- Example. Done by contractor for development and validation.
 
 ---
-## Examples, levels, types
-
+## Levels and Types
+1. Business Level
+	1. Business Requirements
+2. User level
+3. System (product) level
 
 ---
 ## Requirements characteristics
