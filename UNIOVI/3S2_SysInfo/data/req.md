@@ -19,8 +19,12 @@
 		- For that we identify the main processes.
 	- Stakeholders 
 		- Everyone that take part in the software or could benefit from it.
-- Secondly:
-	- 
+- Secondly, we identify user requirements
+	1. Identify needs and objectives
+	2. Identify functional and non-functional requirements
+	3. Evaluate alternatives (similar systems / contracting services)
+	4. Solution description (decisions, integration and priorities)
+- Usual Technique
 ---
 ## Elaboration of the Product Backlog
 
