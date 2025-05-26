@@ -30,27 +30,32 @@
 	- Card format: `As a [role] I want [feature] for [business value]`
 ---
 ## Elaboration of the Product Backlog
-- Sprint Planning. Meeting 1
-	- Refinement in smaller US
-		- Starting by the highest priority
-		- Divide epic US into smaller ones
-			- Should be doable in a sprint
-			- Express a single independent function
-		- Include Acceptance criteria
-			- Details and conditions to be met.
-			- Express users needs through conversations with the PO.
-			- Are not acceptance tests.
-		- Conversations
-			- Raise questions about the details of the acceptance criteria
-			- They should be reflected in the acceptance criteria.
-- Sprint Planning. Meeting 2
-	- Previous US are in the product backlog
-	- Make commitment (move to sprint backlog)
-		- Select a set of them with highest priority that can be done in an sprint.
-		- Complete the acceptance criteria describing business rules or scenarios.
-	- When completing the acceptance criteria some new US may appear.
-		- They may be added in the sprint backlog or in the product backlog.
+- Done during the sprint Planning. Meeting 1
+- Refinement of US starting by the highest priority
+	- Divide epic US into smaller ones
+		- Should be doable in a sprint
+		- Express a single independent function
+	- Include Acceptance criteria
+		- Details and conditions to be met.
+		- Express users needs through conversations with the PO.
+		- Are not acceptance tests.
+	- Conversations
+		- Raise questions about the details of the acceptance criteria
+		- They should be reflected in the acceptance criteria.
 ---
 ## Elaboration of the Sprint Backlog
-
+- Done during the sprint Planning. Meeting 2
+- Previous US are in the product backlog
+- Make commitment (move to sprint backlog)
+	- Select a set of them with highest priority that can be done in an sprint.
+	- Complete the acceptance criteria describing business rules or scenarios.
+- When completing the acceptance criteria some new US may appear.
+	- They may be added in the sprint backlog or in the product backlog.
 ---
+## Other
+- Prototypes
+	- Acceptance criteria do not include all the details about user interaction.
+	- Prototypes specify the rest of details.
+- Database
+	- Done incrementally. Each sprint adds the necessary tables and columns
+	- Use data models (domain class)
