@@ -68,9 +68,17 @@
 	1. Identify the stakeholders
 		1. Can be internal or external to the organization.
 		2. Power-Interest Matrix
-			1. Apatheti
+			1. Monitor - Keep Informed - Keep Satisfied - Manage closely
 	2. Identify the needs for each stakeholder
 2. **Analysis**. Study in depth that needs
+	1. Many ways. Scenarios, prototypes, meetings, on-site observation...
+	2. Interviews are the most effective
+		1. Prepare. Set goals, investigate, list assistants and make script with relevant points.
+		2. Execute. 
+			1. Opening. Formal aspects (presentations, mechanics, privacy...)
+			2. Core. Yes-no questions first. Take care of the vocabulary and confirmate answers.
+			3. End
+		3. 
 3. **Specification**. Document the study in form of the requirement
 4. **Validation**. Review the requirements.
 ---
