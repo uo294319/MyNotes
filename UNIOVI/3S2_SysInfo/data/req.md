@@ -24,7 +24,10 @@
 	2. Identify functional and non-functional requirements
 	3. Evaluate alternatives (similar systems / contracting services)
 	4. Solution description (decisions, integration and priorities)
-- Usual Technique
+- User Stories
+	- The customer (Product Owner) provides the team with the requirements.
+	- Includes conversations and acceptance criteria.
+	- Card format: `As a [role] I want [feature] for [business value]`
 ---
 ## Elaboration of the Product Backlog
 
