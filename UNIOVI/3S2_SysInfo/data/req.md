@@ -43,10 +43,10 @@
 	1. Several rows ordered by sprint or release.
 ---
 ## Requirements characteristics 
-1. Main characteristics:
+1. **Main characteristics:**
 	1. Necessary (cannot be removed)
 	2. Implementation free (what is required but not how)
-2. Framework
+2. **Framework:**
 	1. Identifiable (unique ID)
 	2. Singular (one idea or property of the system)
 	3. Unequivocal (no ambiguities)
@@ -55,17 +55,23 @@
 
 ---
 ## Public Procurement Process
-1. Need (Public Administration)
-2. Tender Solicitation
+1. **Need** (Public Administration)
+2. **Tender Solicitation**
 	1. Pliego de Clausulas Administrativas (PCA)
 	2. Pliego de Prescripciones Técnicas (PPT)
-3. Contractors make Offers
-4. Tender Evaluation
-5. Contract Award
+3. **Contractors make Offers**
+4. **Tender Evaluation**
+5. **Contract Award**
 ---
 ## Process (Elicitation, Analysis, Specification and Validation)
-1. Elicitation 
-2. 
-
+1. **Elicitation**.
+	1. Identify the stakeholders
+		1. Can be internal or external to the organization.
+		2. Power-Interest Matrix
+			1. Apatheti
+	2. Identify the needs for each stakeholder
+2. **Analysis**. Study in depth that needs
+3. **Specification**. Document the study in form of the requirement
+4. **Validation**. Review the requirements.
 ---
 ## Enterprise Resource Planning (ERP)
