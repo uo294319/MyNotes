@@ -30,10 +30,12 @@
 	- Card format: `As a [role] I want [feature] for [business value]`
 ---
 ## Elaboration of the Product Backlog
-- Meeting 1. Sprint Planning
-	- US should be doable in a sprint and express a single independent function.
+- Sprint Planning. Meeting 1
+	-  and express a single independent function.
 	- Refinement in smaller US
 		- Starting by the highest priority
+		- Divide epic US into smaller ones
+			- Should be doable in a sprint
 		- Include Acceptance criteria
 			- Details and conditions to be met.
 			- Express users needs through conversations with the PO.
@@ -41,6 +43,8 @@
 		- Conversations
 			- Raise questions about the details of the acceptance criteria
 			- They should be reflected in the acceptance criteria.
+- Sprint Planning. Meeting 2
+	- Previous
 ---
 ## Elaboration of the Sprint Backlog
 
