@@ -54,12 +54,18 @@
 	5. Verifiable (testeable)
 
 ---
-## Requirements and procurement
-1. Need
-
+## Public Procurement Process
+1. Need (Public Administration)
+2. Tender Solicitation
+	1. Pliego de Clausulas Administrativas (PCA)
+	2. Pliego de Prescripciones Técnicas (PPT)
+3. Contractors make Offers
+4. Tender Evaluation
+5. Contract Award
 ---
 ## Process (Elicitation, Analysis, Specification and Validation)
-
+1. Elicitation 
+2. 
 
 ---
 ## Enterprise Resource Planning (ERP)
