@@ -58,4 +58,4 @@
 	- Prototypes specify the rest of details.
 - Database
 	- Done incrementally. Each sprint adds the necessary tables and columns
-	- Use data models (domain class)
+	- Use data models (domain class model )
