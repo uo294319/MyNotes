@@ -88,6 +88,14 @@
 	3. Organization
 		1. Hierarchical and uniquely identified
 		2. Functional (subsystems) -> Non functional (quality attribute) -> Other (Integration)
-4. **Validation**. Review the requirements.
+4. **Validation**.
+	1. Review the requirements.
+	2. Evaluate alternatives
+		1. Functionality coverage
+		2. Implantation
+		3. Technologies used
+		4. Integration
 ---
 ## Enterprise Resource Planning (ERP)
+- **Enterprise Resource Planning (ERP)**
+	- Information system to support the company'
