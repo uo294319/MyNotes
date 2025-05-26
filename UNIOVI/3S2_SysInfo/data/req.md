@@ -70,8 +70,8 @@
 		2. Power-Interest Matrix
 			1. Monitor - Keep Informed - Keep Satisfied - Manage closely
 	2. Identify the needs for each stakeholder
-2. **Analysis**. Study in depth that needs
-	1. Many ways. Scenarios, prototypes, meetings, on-site observation...
+2. **Analysis**. 
+	1. Study the stakeholder needs with scenarios, prototypes, meetings, on-site observation...
 	2. Interviews are the most effective
 		1. **Prepare**. Set goals, investigate, list assistants and make script with relevant points.
 		2. **Execute**. 
@@ -79,13 +79,15 @@
 			2. **Core**. Yes-no questions first. Take care of the vocabulary and confirm answers.
 			3. **End**. Questions to weight effectiveness and find missing points.
 		3. **Consolidation**. Document the result in minutes. Confirm minutes with participants. 
-3. **Specification**. Document the study in form of the requirement
-	1. System Requirements Specification - SRS
+3. **Specification**. 
+	1. Document the stakeholder needs study with a System Requirements Specification (SRS)
 	2. Includes:
 		1. Description (objectives, scope, stakeholders, current system...)
 		2. User requirements
 		3. System requirements with traceability
-	3. Can be a single document or several ones (Metrica v3 EVS and ASI.
+	3. Organization
+		1. Hierarchical and uniquely identified
+		2. Functional (subsystems) -> Non functional (quality attribute) -> Other (Integration)
 4. **Validation**. Review the requirements.
 ---
 ## Enterprise Resource Planning (ERP)
