@@ -39,10 +39,19 @@
 1. **Actors**. Who benefits from each goal. Can be repeated.
 2. **Goal**. Major objectives. Business process.
 3. **Activity**. Goal split into user actions to obtain value.
-4. **Features**. 
+4. **System Features**.
+	1. Several rows ordered by sprint or release.
 ---
-## Requirements characteristics
-
+## Requirements characteristics 
+1. Main characteristics:
+	1. Necessary (cannot be removed)
+	2. Implementation free (what is required but not how)
+2. Framework
+	1. Identifiable (unique ID)
+	2. Singular (one idea or property of the system)
+	3. Unequivocal (no ambiguities)
+	4. Traceable (requirement outcomes must be identificable)
+	5. Verifiable (testeable)
 
 ---
 ## Requirements and procurement
