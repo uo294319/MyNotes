@@ -26,8 +26,13 @@
 1. Business Level
 	1. Business Requirements
 2. User level
-3. System (product) level
-
+	1. User Requirements
+	2. Quality Attributes
+3. System level (System Requirements Specification - SRS)
+	1. Functional Requirements
+	2. Non-Functional Requirements
+	3. Integration Requirements
+	4. Other Requirements (Restrictions)
 ---
 ## Requirements characteristics
 
