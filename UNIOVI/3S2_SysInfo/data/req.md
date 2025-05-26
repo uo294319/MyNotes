@@ -58,4 +58,6 @@
 	- Prototypes specify the rest of details.
 - Database
 	- Done incrementally. Each sprint adds the necessary tables and columns
-	- Use data models (domain class model )
+	- Use data models (domain class model and entity-relationship model)
+	- Steps: Entities -> Relationships -> Attributes
+---
