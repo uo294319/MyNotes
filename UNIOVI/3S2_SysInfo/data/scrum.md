@@ -1,6 +1,6 @@
 # SCRUM
 ---
-[Go Back](UNIOVI/3S2_IntSys/README.md)
+[Go Back](../README.md)
 
 ---
 ## Introduction

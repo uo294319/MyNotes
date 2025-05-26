@@ -7,4 +7,4 @@
 ---
 ## Theory
 - [Scrum](data/scrum.md)
-- [User Requirements](data/req.md)
+- [User Stories Elaboration](data/req.md)
