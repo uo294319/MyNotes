@@ -31,11 +31,11 @@
 ---
 ## Elaboration of the Product Backlog
 - Sprint Planning. Meeting 1
-	-  and express a single independent function.
 	- Refinement in smaller US
 		- Starting by the highest priority
 		- Divide epic US into smaller ones
 			- Should be doable in a sprint
+			- Express a single independent function
 		- Include Acceptance criteria
 			- Details and conditions to be met.
 			- Express users needs through conversations with the PO.
@@ -44,7 +44,12 @@
 			- Raise questions about the details of the acceptance criteria
 			- They should be reflected in the acceptance criteria.
 - Sprint Planning. Meeting 2
-	- Previous
+	- Previous US are in the product backlog
+	- Make commitment (move to sprint backlog)
+		- Select a set of them with highest priority that can be done in an sprint.
+		- Complete the acceptance criteria describing business rules or scenarios.
+	- When completing the acceptance criteria some new US may appear.
+		- They may be added in the sprint backlog or in the product backlog.
 ---
 ## Elaboration of the Sprint Backlog
 
