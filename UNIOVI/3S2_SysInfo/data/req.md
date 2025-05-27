@@ -97,5 +97,13 @@
 		4. Integration
 ---
 ## Enterprise Resource Planning (ERP)
-- **Enterprise Resource Planning (ERP)**
-	- Information system to support the company'
+- **Definition**
+	- Enterprise Resource Planning (ERP)
+	- Information system comprehensively manage the company's internal business processes.
+- **Modules:**
+	- Finance Resource Management (FRM)
+	- Supply Chain Management (SCM)
+	- Human Resource Management (HRM)
+	- Customer Relationship Management (CRM)
+	- Manufacturing Resource Management (MRM)
+---
