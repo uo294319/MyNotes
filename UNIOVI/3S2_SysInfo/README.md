@@ -9,3 +9,7 @@
 - [Scrum](data/scrum.md)
 - [User Stories Elaboration](data/us.md)
 - [Software Requirements](data/req.md)
+---
+## Seminars
+- [Retrospective](data/retro.md)
+- [PITER](data/piter.md)
