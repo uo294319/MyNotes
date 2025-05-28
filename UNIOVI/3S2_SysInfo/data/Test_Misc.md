@@ -63,5 +63,13 @@
 ## Software Configuration Management (SCM)
 - Definition
 	- Set of activities to manage changes throughout the whole life cycle
-	- 
+	- Objectives:
+		- Maintain integrity
+		- Monitor and evaluate changes
+		- Product visibility for whole team
+	- Standard IEEE 828
+- Concepts
+	- Hardware Configuration Item (HWCI). Hardware component models and configurations.
+	- Computer Software Configuration Item (CSCI).
+	- Baseline. 
 ---
