@@ -23,7 +23,9 @@
 2. Identify **Equivalence Classes**
 	1. Examine **input or output conditions**
 	2. Divide input conditions into disjoint equivalence classes
-		1. Can be: enumerations, ranges and logical values
+		1. Enumerations. 
+		2. Ranges
+		3. Logical values
 	3. Divide different behaviour classes into smaller ones (Hierarchy)
 3. Create **Test Cases** to cover the Equivalence Classes.
 	1. Valid classes are covered with the fewer number of test cases possible.
