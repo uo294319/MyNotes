@@ -47,6 +47,18 @@
 	- **Technical reviews**. More formal peer-review.
 	- **Peer Review**. Other parties look for non-compliance with specification.
 	- **Walk-Through**. Author exposes work and request questions and comments.
+- **Roles**
+	- **Director**. Responsable or chief. Allocates resources.
+	- **Moderator**. Leads the meeting.
+	- **Author**. Exposes the reviewed work/material.
+	- **Reviewer**. Detects defects in the reviewed work/material.
+	- **Secretary**. Records and documents the review.
+- Process
+	1. Planning. 
+	2. Start.
+	3. Preparation. 
+	4. Meeting
+	5. Rebuild and follow-up
 ---
 ## Software Configuration Management (SCM)
 
