@@ -9,4 +9,12 @@
 	- Provide stakeholders with information about the quality
 	- Good test case = High probability of finding a failure.
 	- Successful test case = Failure found
-- Includes (ISO 29119): Planning -> Preparation -> Execution -> Reporting
+- Standard ISO 29119
+## Types
+- Testing types:
+	- Static. Examines code without executing.
+	- Dynamic. Executes a test item.
+- Differentiate:
+	- Error = Human mistake
+	- Failure = Unexpected behaviour
+	- Defect, Fault or Bug = Component or system flaw
