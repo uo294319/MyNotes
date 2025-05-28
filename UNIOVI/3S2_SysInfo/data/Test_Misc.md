@@ -61,15 +61,25 @@
 	5. **Rebuild and follow-up**. Update and verify changes are included.
 ---
 ## Software Configuration Management (SCM)
-- Definition
-	- Set of activities to manage changes throughout the whole life cycle
-	- Objectives:
-		- Maintain integrity
-		- Monitor and evaluate changes
-		- Product visibility for whole team
-	- Standard IEEE 828
-- Concepts
-	- Hardware Configuration Item (HWCI). Hardware component models and configurations.
-	- Computer Software Configuration Item (CSCI).
-	- Baseline. 
+### Introduction
+- **Def**. Set of activities to manage changes throughout the whole life cycle
+- **Objectives:**
+	- Maintain integrity
+	- Monitor and evaluate changes
+	- Product visibility for whole team
+- **Standard IEEE 828**
+- **Concepts**
+	- **Hardware Configuration Item (HWCI)**. Hardware component models and configurations.
+	- **Computer Software Configuration Item (CSCI)**. Software system or module.
+	- **Software Configuration Item (SCI)**. Software related artefact (docs, plans, code, tests...)
+	- **Baseline**. SCI in a stable state
+	- **Version**. State of a configuration item
+	- **Release**. Version ready for distribution.
+### Control Process (IEEE 828)
+1. Request and registration
+2. Evaluation
+3. Approval or disapproval
+4. Implementation and verification
+### Environment Separation
+1. 
 ---
