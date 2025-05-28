@@ -23,10 +23,14 @@
 2. Identify **Equivalence Classes**
 	1. Examine **input or output conditions**
 	2. Divide input conditions into disjoint equivalence classes
-		1. Enumerations. 
-		2. Ranges
+		1. Enumerations. Add 1 class for other
+		2. Ranges. Classes for the midpoint, below and above.
 		3. Logical values
 	3. Divide different behaviour classes into smaller ones (Hierarchy)
 3. Create **Test Cases** to cover the Equivalence Classes.
 	1. Valid classes are covered with the fewer number of test cases possible.
 	2. Each invalid class requires a independent test case
+---
+## Testing Process (ISO 29119)
+1. Organization Testing Process
+2. Testing Management Proces
