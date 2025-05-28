@@ -24,7 +24,7 @@
 	1. Examine **input or output conditions**
 	2. Divide input conditions into disjoint equivalence classes
 		1. Enumerations. Add 1 class for other
-		2. Ranges. Classes for the midpoint, below and above.
+		2. Ranges. Classes for the limit values, below and above.
 		3. Logical values
 	3. Divide different behaviour classes into smaller ones (Hierarchy)
 3. Create **Test Cases** to cover the Equivalence Classes.
@@ -38,5 +38,19 @@
 	2. Control and Result Tracking
 	3. Ending
 3. Dynamic Testing Processes
-	1. Test Design
-	2. Test 
+	1. Test Design & Implementation
+	2. Test Environment
+	3. Test Execution
+	4. Report of issues on tests (if found)
+---
+## V-shaped Model
+
+| Development          | Testing             |
+| -------------------- | ------------------- |
+| User Requirements    | Acceptance Testing  |
+| System Requirements  | System Testing      |
+| Architectural Design | Integration Testing |
+| Detailed Design      | Component Testing   |
+| Implementation       | Unit Testing        |
+
+---
