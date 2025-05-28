@@ -12,7 +12,7 @@
 	- [Software Requirements](data/req.md)
 - **Software Quality**
 	- [Introduction](data/Test_Intro.md)
-	- Testing Techniques
+	- [Testing Techniques](data/Test_Tech.md)
 	- Design and implementation
 ---
 ## Seminars
