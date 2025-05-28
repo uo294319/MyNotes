@@ -6,9 +6,12 @@
 
 ---
 ## Theory
-- [Scrum](data/scrum.md)
-- [User Stories Elaboration](data/us.md)
-- [Software Requirements](data/req.md)
+- **Software Requirements**
+	- [Scrum](data/scrum.md)
+	- [User Stories Elaboration](data/us.md)
+	- [Software Requirements](data/req.md)
+- **Software Quality**
+	- 
 ---
 ## Seminars
 - [Retrospective](data/retro.md)
