@@ -81,5 +81,15 @@
 3. Approval or disapproval
 4. Implementation and verification
 ### Environment Separation
-1. 
+- Def. Having operational and test versions for different purposes.
+- Environments
+	- Development
+		- Component development and unit tests.
+	- Integration
+		- Component integration and integration tests.
+		- Trend of Continuous Integration (CI)
+	- Pre-production
+		- Acceptance tests and user training
+	- Production
+		- Used by real users
 ---
