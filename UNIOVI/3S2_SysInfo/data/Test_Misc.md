@@ -61,5 +61,7 @@
 	5. **Rebuild and follow-up**. Update and verify changes are included.
 ---
 ## Software Configuration Management (SCM)
-
+- Definition
+	- Set of activities to manage changes throughout the whole life cycle
+	- 
 ---
