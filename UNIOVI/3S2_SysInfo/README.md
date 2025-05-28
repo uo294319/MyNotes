@@ -13,7 +13,6 @@
 - **Software Quality**
 	- [Introduction](data/Test_Intro.md)
 	- [Testing Techniques](data/Test_Tech.md)
-	- Design and implementation
 ---
 ## Seminars
 - [Retrospective](data/retro.md)
