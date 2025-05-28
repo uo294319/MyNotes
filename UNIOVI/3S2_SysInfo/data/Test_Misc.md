@@ -53,12 +53,12 @@
 	- **Author**. Exposes the reviewed work/material.
 	- **Reviewer**. Detects defects in the reviewed work/material.
 	- **Secretary**. Records and documents the review.
-- Process
-	1. Planning. 
-	2. Start.
-	3. Preparation. 
-	4. Meeting
-	5. Rebuild and follow-up
+- **Process**
+	1. **Planning**. Calendar, material and attendees
+	2. **Start**. Objectives and additional information.
+	3. **Preparation**. Reviewers examine the artefact
+	4. **Meeting**. Reviewers present the results. Generate a Review report.
+	5. **Rebuild and follow-up**. Update and verify changes are included.
 ---
 ## Software Configuration Management (SCM)
 
