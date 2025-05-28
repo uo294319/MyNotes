@@ -7,13 +7,14 @@
 ---
 ## Theory
 - **Software Requirements**
-	- [Scrum](data/scrum.md)
-	- [User Stories Elaboration](data/us.md)
-	- [Software Requirements](data/req.md)
+	- [Scrum](data/SR_scrum.md)
+	- [User Stories Elaboration](data/SR_us.md)
+	- [Software Requirements](data/SR_req.md)
 - **Software Quality**
 	- [Introduction](data/Test_Intro.md)
 	- [Testing Techniques](data/Test_Tech.md)
+	- [Quality, Reviews and Software Configuration Management](data/Test_Misc.md)
 ---
 ## Seminars
-- [Retrospective](data/retro.md)
-- [PITER](data/piter.md)
+- [Retrospective](data/PA_retro.md)
+- [PITER](data/PA_piter.md)
