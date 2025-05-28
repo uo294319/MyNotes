@@ -39,15 +39,14 @@
 	- **Objective**: Find optimal trade-off point between them.
 ---
 ## Reviews
-- Definition
+- **Definition**
 	- Present a work to obtain comment or approval
 	- Objective. Early defect detection and reducing unnecessary rework
-- Types (formal to informal)
-	- Inspections
-		- Team of inspectors with 
-	- Technical reviews
-	- Peer Review
-	- Walk-Through
+- **Types (formal to informal)**
+	- **Inspections**. Team with different perspectives follow a defined systematic process
+	- **Technical reviews**. More formal peer-review.
+	- **Peer Review**. Other parties look for non-compliance with specification.
+	- **Walk-Through**. Author exposes work and request questions and comments.
 ---
 ## Software Configuration Management (SCM)
 
