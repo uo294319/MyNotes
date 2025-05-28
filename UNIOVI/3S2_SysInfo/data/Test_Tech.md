@@ -32,5 +32,11 @@
 	2. Each invalid class requires a independent test case
 ---
 ## Testing Process (ISO 29119)
-1. Organization Testing Process
-2. Testing Management Proces
+1. Organization Testing Process. Obtain Policy and testing strategy.
+2. Testing Management Processes. Obtain Plan, control and guidelines
+	1. Planning
+	2. Control and Result Tracking
+	3. Ending
+3. Dynamic Testing Processes
+	1. Test Design
+	2. Test 
