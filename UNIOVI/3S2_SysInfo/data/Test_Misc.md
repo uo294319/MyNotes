@@ -4,7 +4,26 @@
 
 ---
 ## Quality
-- Def. Ability to meet s
+- Def. Ability to meet specified requirements and customer or user needs,
+- ISO 25010. Software Product Quality
+	- Suitability
+	- Security
+	- Portability
+	- Performance
+	- Compatibility
+	- Reliability
+	- Operability
+	- Maintainability
+- ISO 25010. Quality in use
+	- Effectiveness
+	- Efficiency
+	- Satisfaction
+	- Safety
+	- Usability
+- Definitions
+	- Quality Assurance (QA)
+		- Planned, systematic pattern of actions
+		- Provide confidence in the 
 ---
 ## Reviews
 
